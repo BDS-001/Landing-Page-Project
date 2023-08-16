@@ -168,6 +168,11 @@ button {
     gap: 40px;
 }
 
+.header-links a {
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
 #header-logo {
     flex-shrink: 0;
     font-size: 24px;
